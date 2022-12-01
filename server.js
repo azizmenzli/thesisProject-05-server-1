@@ -27,7 +27,7 @@ app.use(cookieParser())
 
 app.use('/student',studentsRoute)
 app.use('/comment',CommentRoutes)
-app.use('/owner', ownerRoute)
+app.use('/owner', ownerRoute) 
 app.use('/uni',uniRoute)
 app.use('/res',residenceRoute)
 app.use('/house',houseRoute)

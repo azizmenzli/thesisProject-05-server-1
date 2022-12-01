@@ -3,7 +3,7 @@ const mysql=require('mysql2')
 const config={
     host:"localhost",
     user:"root",
-    password:"12345",
+    password:"A09631731?",
     database:'roostIt',
 
 }
